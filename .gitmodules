@@ -1,0 +1,3 @@
+[submodule "tone_generator"]
+	path = tone_generator_dir
+	url = https://github.com/edwardcwang/tone_generator.git
